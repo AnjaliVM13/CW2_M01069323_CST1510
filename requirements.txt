@@ -1,1 +1,10 @@
+# Week 7 Secure Authentication System Requirements
 bcrypt==4.2.0
+
+bcrypt==4.2.0
+
+# Optional (standard libraries, already included with Python)
+os
+json
+time
+secrets
