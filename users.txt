@@ -1,2 +1,3 @@
-Yena,$2b$12$7k3sDwOW2BNZanK8Jzzm4uj1sDqkK5lBEmrS9lBybjjWqPsyi8UnW
-Shivi,$2b$12$CqToxozE/oGERlZMnqPoFOa0OCbEomg6SfAOmCAKI.xm9PZr6yblm
+Yena,$2b$12$QCfTpsv4I003RI9vJLhok.kwpvPcZPnQy8eKGx2X1lyRnaFgkcJwe,analyst
+Shivi,$2b$12$AXZTkTvosOa8axu7nAXaJu8HryoOA99YldQVNd372AQQtxAZAfdkq,admin
+Mia,$2b$12$IeLOZ1G.tuB78WID50ae2eVM76J2USCvWMS16nRxbSx4AR//fNuwq,user
